@@ -14,5 +14,9 @@ Vuelvelo una herramienta potente solo añadiendo extenciones.
 ## Licencia
 Este proyecto está licenciado bajo la licencia GPLv3. Consulta el archivo `LICENSE` para más detalles.
 
+## Autores
+- [amias](https://github.com/amias69)
+
+
 
 
